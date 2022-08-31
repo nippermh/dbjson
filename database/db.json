@@ -32,5 +32,8 @@
             "status" : "Active",
             "role" : "Member"
         }
+    ],
+    "articles": [
+        {"reflection": ""}
     ]
 }
